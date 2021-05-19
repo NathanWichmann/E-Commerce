@@ -5,19 +5,19 @@ The task was to take existing code and add model code, Sequelize and configure t
 
 # Link To YouTube, GIF and Screenshot
 
-![E-Commerce-one](./E-Commerce-one.gif)
+![E-Commerce-one](./walk-through-video/E-Commerce-one.gif)
 
-![E-Commerce-two](./E-Commerce-two.gif)
+![E-Commerce-two](./walk-through-video/E-Commerce-two.gif)
 
-![E-Commerce-three](./E-Commerce-three.gif)
+![E-Commerce-three](./walk-through-video/E-Commerce-three.gif)
 
-https://youtu.be/95uSCnxoyOc
-
-
-https://youtu.be/vHFgDKxWhjg
+<a href="https://youtu.be/95uSCnxoyOc">YouTube Video One</a>
 
 
-https://youtu.be/AUnx3E2IaBU
+<a href="https://youtu.be/vHFgDKxWhjg">YouTube Video Two</a>
+
+
+<a href="https://youtu.be/AUnx3E2IaBU">YouTube Video Three</a>
 
 ![Screenshot (92)](https://user-images.githubusercontent.com/77902368/118882762-85081e00-b8c2-11eb-973b-37889a6d79e0.png)
 
