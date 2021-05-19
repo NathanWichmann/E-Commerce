@@ -34,11 +34,7 @@ Product.init(
         isNumeric: true,
       },
     },
-    category_id: {
-      type: DataTypes.INTEGER,
-      allowNull: false,
-      defaultValue: 1
-    },
+    
     category_id: {
       type: DataTypes.INTEGER,
       references: {
