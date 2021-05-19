@@ -9,7 +9,8 @@ The task was to take existing code and add model code, Sequelize and configure t
 
 ![E-Commerce-two](./walk-through-video/E-Commerce-two.gif)
 
-![E-Commerce-three](./walk-through-video/E-Commerce-three.gif)
+note(the walkthrough video link on github works and there is no code error here, this link will not show on the readme not sure why)
+![E-Commerce-three](./walk-through-video/E-commerce-three.gif)
 
 <a href="https://youtu.be/95uSCnxoyOc">YouTube Video One</a>
 
