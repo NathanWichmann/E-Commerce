@@ -1,7 +1,8 @@
+//this brings in sequelize 
 const { Model, DataTypes } = require('sequelize');
-
+// this connects to the jaws 
 const sequelize = require('../config/connection.js');
-
+// this creates the model category 
 class Category extends Model {}
 
 Category.init(
